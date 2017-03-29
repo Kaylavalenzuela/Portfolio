@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+
+.smalllogo {
+  justify-content: flex-start;
+  margin-bottom: 195px;
+  margin-top: 130px;
+}
+
+.events {
+  margin-left: 100px;
+  color: #FFB70D;
+  text-shadow: 50px;
+  font-family: 'Crete Round', serif;
+}
+
+.nav {
+  /*margin-top: 75px;*/
+  justify-content: flex-end;
+  position: fixed;
+  font-family: 'Crete Round', serif;
+}
+
+
+.pt {
+  font-family: 'Crete Round', serif;
+  font-size: 40px;
+  color: #0000
+}
+.underpt {
+  margin-bottom: 90px;
+  font-size: 20px;
+  font-family: 'Crete Round', serif;
+  color: #FFB70D
+}
+
+.container {
+  padding-left:30px;
+  padding-right: 30px;
+}
+
+
+.gallery-img_sizing {
+  height: 300px;
+  width: inherit;
+}
+
+.col-menu_img {
+  background-image: url('../pics/menu.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+a {
+  color: #524B41;
+}
+
+a:hover {
+  background-color: transparent;
+  color: grey;
+}
+
+.col-weddings_img {
+  background-image: url('../pics/weddings.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col-awards_img {
+  background-image: url('../pics/awards.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col-events_img {
+  background-image: url('../pics/events.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col-gallery_img {
+  background-image: url('../pics/gallery.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col-staff_img {
+  background-image: url('../pics/staff.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col-about_img {
+  background-image: url('../pics/pt.jpg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.col-contact_img {
+  background-image: url('../pics/contact.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.footer {
+margin-top: 200px;
+
+}
+
+.copyright {
+  color: #C7B89F;
+
+
+}
