@@ -14,7 +14,7 @@
 }
 
 .nav {
-  /*margin-top: 75px;*/
+  margin-top: 20px;
   justify-content: flex-end;
   position: fixed;
   font-family: 'Crete Round', serif;
@@ -22,6 +22,7 @@
 
 
 .pt {
+  margin-top: 70px;
   font-family: 'Crete Round', serif;
   font-size: 40px;
   color: #0000
