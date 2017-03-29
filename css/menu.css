@@ -15,7 +15,7 @@
 }
 
 .nav {
-  margin-top: 75px;
+  margin-top: 20px;
   justify-content: flex-end;
   position: fixed;
   font-family: 'Crete Round', serif;
@@ -23,6 +23,7 @@
 
 
 .pt {
+  margin-top: 70px;
   font-family: 'Crete Round', serif;
   font-size: 40px;
   color: #0000
@@ -43,10 +44,33 @@
   color: #524B41;
   font-family: 'News Cycle', sans-serif;
   font-size: 30px;
+  margin-left: 20px;
 }
 
-.prawns {
-  margin-left: 20px;
+.tryour {
+  color: #524B41;
+  font-family: 'News Cycle', sans-serif;
+}
+.entrees {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+.burger {
+  color: #524B41;
+  font-family: 'News Cycle', sans-serif;
+
+}
+  .desserts {
+      font-family: 'News Cycle', sans-serif;
+      font-size: 30px;
+      margin-left: 20px;
+      margin-top: 30px;
+    }
+.dessert1 {
+  color: #524B41;
+  font-family: 'News Cycle', sans-serif;
 }
 
 a {
