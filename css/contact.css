@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+
+.smalllogo {
+  justify-content: flex-start;
+  margin-bottom: 195px;
+  margin-top: 130px;
+}
+
+.events {
+  margin-left: 100px;
+  color: #FFB70D;
+  text-shadow: 50px;
+  font-family: 'Crete Round', serif;
+}
+
+.nav {
+  margin-top: 20px;
+  justify-content: flex-end;
+  position: fixed;
+  font-family: 'Crete Round', serif;
+}
+
+
+.pt {
+  margin-top: 70px;
+  font-family: 'Crete Round', serif;
+  font-size: 40px;
+  color: #0000
+}
+.underpt {
+  margin-bottom: 90px;
+  font-size: 20px;
+  font-family: 'Crete Round', serif;
+  color: #FFB70D
+}
+
+.container {
+  padding-left:30px;
+  padding-right: 30px;
+}
+
+
+
+.footer {
+  margin-top: 200px;
+
+}
+
+
+.copyright {
+  color: #C7B89F;
+
+
+}
