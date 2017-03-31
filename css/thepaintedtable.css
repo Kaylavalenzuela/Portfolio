@@ -16,7 +16,6 @@
 .nav {
   margin-top: 20px;
   justify-content: flex-end;
-  position: fixed;
   font-family: 'Crete Round', serif;
 }
 
@@ -35,8 +34,8 @@
 }
 
 .container {
-  padding-left:30px;
-  padding-right: 30px;
+  padding-left: 220px;
+
 }
 
 
@@ -73,24 +72,13 @@ a:hover {
   background-position: center;
   background-repeat: no-repeat;
 }
-.col-events_img {
-  background-image: url('../pics/events.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
 .col-gallery_img {
   background-image: url('../pics/gallery.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
-.col-staff_img {
-  background-image: url('../pics/staff.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
+
 .col-about_img {
   background-image: url('../pics/pt.jpg');
   background-size: contain;
@@ -108,7 +96,6 @@ a:hover {
   margin-top: 200px;
 
 }
-
 
 .copyright {
   color: #C7B89F;

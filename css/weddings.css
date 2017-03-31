@@ -29,7 +29,7 @@
 }
 .underpt {
   margin-bottom: 90px;
-  font-size: 20px;
+  font-size: 30px;
   font-family: 'Crete Round', serif;
   color: #FFB70D
 }
@@ -38,8 +38,19 @@
   padding-left:30px;
   padding-right: 30px;
 }
+.wedding {
+  margin-left: 200px;
+}
+.wedding1 {
+  padding-left: 200px;
+}
+.lorem {
+  margin-right: 70px;
+  margin-left: 70px;
 
-
+  font-family: 'Crete Round', serif;
+  color: #FFB70D
+}
 
 .footer {
   margin-top: 200px;
